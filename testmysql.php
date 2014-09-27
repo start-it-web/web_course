@@ -6,3 +6,5 @@ if (!$link) {
 echo 'Connection OK'; mysql_close($link); 
 
 echo '<br/>Bug is here=>'
+
+echo 'hi';
