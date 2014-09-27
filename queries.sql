@@ -1,4 +1,4 @@
-SHOW databases;
+SHOW DATABASES;
 
 CREATE DATABASE publications;
 
